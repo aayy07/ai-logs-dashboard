@@ -2,10 +2,10 @@ AI Log Analytics Dashboard
 
 🚀 Overview
 A modern dashboard for monitoring and analyzing application logs with:
-    Filters: search, log level, source (NGINX, MySQL, App, k8s)
-    Live metrics: total logs, anomalies, system health, avg response time
-    Charts: log volume over time and error type distribution
-    AI backend: detects anomalies and clusters errors using ML
+    -Filters: search, log level, source (NGINX, MySQL, App, k8s)
+    -Live metrics: total logs, anomalies, system health, avg response time
+    -Charts: log volume over time and error type distribution
+    -AI backend: detects anomalies and clusters errors using ML
 
 🛠 Setup
 1. Install Python Dependencies
